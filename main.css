@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(247, 210, 253);
+}
+.h1{
+    display: flex;
+    justify-content: center;
+
+}
+
+.p{
+    display: flex;
+    justify-content: center;
+}
